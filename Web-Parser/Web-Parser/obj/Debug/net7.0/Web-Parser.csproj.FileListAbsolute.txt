@@ -1,0 +1,17 @@
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/Web-Parser
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/Web-Parser.deps.json
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/Web-Parser.runtimeconfig.json
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/Web-Parser.dll
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/Web-Parser.pdb
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/bin/Debug/net7.0/HtmlAgilityPack.dll
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.csproj.AssemblyReference.cache
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.AssemblyInfoInputs.cache
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.AssemblyInfo.cs
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.csproj.CoreCompileInputs.cache
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.csproj.CopyComplete
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.dll
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/refint/Web-Parser.dll
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.pdb
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/Web-Parser.genruntimeconfig.cache
+/Users/pogpurec/Projects/Web-Parser/Web-Parser/obj/Debug/net7.0/ref/Web-Parser.dll

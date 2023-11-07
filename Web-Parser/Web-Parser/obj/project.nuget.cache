@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljBJeB2N2Zm4tcROy0Jf54xtQvveH+VTDSQhQaNCtc5TsH+kocOg/pnc0H9LLS7Z3zfHGcgt0B9kgoI3Tndg1Q==",
+  "success": true,
+  "projectFilePath": "/Users/pogpurec/Projects/Web-Parser/Web-Parser/Web-Parser.csproj",
+  "expectedPackageFiles": [
+    "/Users/pogpurec/.nuget/packages/htmlagilitypack/1.11.54/htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
